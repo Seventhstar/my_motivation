@@ -1,0 +1,2 @@
+class WishCategory < ApplicationRecord
+end
